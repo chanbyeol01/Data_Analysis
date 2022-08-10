@@ -1,5 +1,5 @@
-# MyDataAnalysis_2022
-### 2022년 데이터에 대한 분석 내용 정리
+# Data_Analysis
+### 데이터에 대한 분석 내용 정리
 
 ## [IRIS 데이터 분석해보기]
  * 데이터 참조 : https://www.kaggle.com/datasets/uciml/iris
